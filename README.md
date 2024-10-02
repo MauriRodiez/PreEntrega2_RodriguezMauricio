@@ -1,4 +1,4 @@
-# PreEntrega1_RodriguezMauricio
+# PreEntrega2_RodriguezMauricio
 Simulador interactivo - Segunda entrga
 
 Lenguaje utilizado: Javascript
